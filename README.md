@@ -1,4 +1,5 @@
 # 内存管理 - 请求页式管理模拟
+#[可以预览](https://fanqingm.github.io/TJOS_MemoryManagement/dist/index.html)
 
 操作系统第二次课程作业 - 请求页式管理模拟
 
