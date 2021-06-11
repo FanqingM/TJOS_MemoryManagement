@@ -61,7 +61,7 @@ Table of Contents
 
 - **开发语言:** html,css,js
 
-- **引用模块：**vue elementUI
+- **引用模块**：** vue elementUI
 
 ## 操作说明
 
@@ -233,6 +233,6 @@ Table of Contents
 
 ​	**联系方式**		*email:* 1950679@tongji.edu.cn
 
-​	**Github **
+​	**Github**
 
 
